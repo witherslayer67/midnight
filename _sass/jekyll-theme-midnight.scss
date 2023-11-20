@@ -8,13 +8,13 @@ body {
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#000000;
   font-weight: normal;
-  background: #bf5700; //000000
+  background: #000000; //000000
   background-attachment: fixed !important;
-  background: linear-gradient(#bf5700, #bf5700); //000000
+  background: linear-gradient(#000000, #000000); //000000
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#000000; //ffcc00 is yellow, bf5700 is the orang, 000000 is black, ffffff is white, 
+  color:#ffffff; //ffcc00 is yellow, bf5700 is the orang, 000000 is black, ffffff is white, 
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -50,7 +50,7 @@ h3 {
 }
 
 a {
-  color:#ffffff; //A9A9A9 is dark grey
+  color:#bf5700; //A9A9A9 is dark grey
   font-weight:400;
   text-decoration:none;
 
