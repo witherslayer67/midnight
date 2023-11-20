@@ -67,7 +67,7 @@ a small {
 }
 
 ul{
-  list-style-image:url('../images/bullet.png');
+  list-style:linear-gradient(#bf5700,#bf5700); //list-style-image:url('../images/bullet.png');
 }
 
 strong {
